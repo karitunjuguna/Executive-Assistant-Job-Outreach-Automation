@@ -1,0 +1,3 @@
+OPENAI_API_KEY=your_key_here
+GOOGLE_SHEET_NAME=Executive_Assistant_Dashboard
+GOOGLE_CREDENTIALS_FILE=credentials.json
