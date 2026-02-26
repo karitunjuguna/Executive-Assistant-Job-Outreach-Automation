@@ -115,7 +115,7 @@ Upon execution:
 
 ## Sample Output
 
-`output.csv` contains structured fields:
+`[output.csv]([url](https://docs.google.com/spreadsheets/d/18G9kcUlJ3-tQFhcoJSh7OjdBUcrJAnqXVtgqZfuRVI0/edit?gid=0#gid=0))` contains structured fields:
 
 * Job Posting URL
 * Job Title
